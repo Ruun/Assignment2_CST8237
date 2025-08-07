@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Asst2_EODriscoll",
+			"Path": "..\\Source\\Asst2_EODriscoll.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Asst2_EODriscollEditor",
+			"Path": "..\\Source\\Asst2_EODriscollEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

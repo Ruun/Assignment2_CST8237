@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Asst2_EODriscoll.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Asst2_EODriscoll.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Asst2_EODriscollEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Asst2_EODriscoll">
+      <UniqueIdentifier>{960F2E4C-D971-3D82-ACD9-2DB4E3EA24C4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\Asst2GameStateBase.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\Asst2GameStateBase.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscoll.Build.cs">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscoll.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscoll.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscollCharacter.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscollCharacter.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscollGameMode.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscollGameMode.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscollProjectile.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\Asst2_EODriscollProjectile.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\Enemy.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\Enemy.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\EnemySpawner.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\EnemySpawner.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\PlayerHUD.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\PlayerHUD.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\TP_PickUpComponent.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\TP_PickUpComponent.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asst2_EODriscoll\TP_WeaponComponent.cpp">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asst2_EODriscoll\TP_WeaponComponent.h">
+      <Filter>Source\Asst2_EODriscoll</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

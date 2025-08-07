@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/FirstPerson/Blueprints/BP_Blue_Enemy.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/FirstPerson/Blueprints/BP_Red_Enemy.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/FirstPerson/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/CP/DH0GU9T3JKGOIC4SJH9TGV.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/8M/G6ECAET1SNW22Y8DTV8ZQZ.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/HA/C11Y4YG4K70IENZ11I23H4.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1N/2TFNJKPDCPPN8OGL7VMWQF.uasset",
+				"C:/Users/simo0173/Downloads/shooter-main/shooter-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+			]
+		}
+	]
+}
